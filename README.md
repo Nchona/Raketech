@@ -26,12 +26,11 @@ b. Build the docker image and deploy in your ECR
 
 c. Initialization
    Setup up your envirnment with terraform , in the terraform folder and run the following : 
-`     terraform init
-`
+`terraform init`
 
 d. Deployment
-  `terraform plan
-   terraform apply`
+  `terraform plan`
+  `terraform apply`
 
 
 3. Accessing and Verification 
